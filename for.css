@@ -1,0 +1,30 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+} */
+nav{
+    background-color: black;
+    color: white;
+    margin: -10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+button{
+    background-color: black;
+    color: white;
+    
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+ .ab{
+    margin-left:10px;
+    padding: 10px;
+} 
+h3{
+    margin-left:-15px;
+}
+div{
+margin-left: 15px;
+}
